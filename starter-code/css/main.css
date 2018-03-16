@@ -21,12 +21,6 @@ body {
   padding: 20px;
 }
 
-.phones {
-  float: left
-  width: 30%;
-  padding
-}
-
 .login {
   float: right;
   margin: 20px 50px 0 0;
@@ -61,7 +55,7 @@ body {
   padding: 20px;
   background-image: url("../images/frame.png");
   background-repeat: no-repeat;
-  width: 100;
+  width: 100%;
 }
 
 h2, h4 {
